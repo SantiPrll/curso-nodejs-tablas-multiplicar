@@ -1,0 +1,3 @@
+node_modules/
+src/assets/tablas/*.txt
+package-lock.json

@@ -1,0 +1,9 @@
+Required
+1.-Required propios de Node
+2.-Required que no son nativos de Node
+3.-Required de archivos creados en el proyecto y se identifican con el ./, par utilizar se deben de agregar al module.exports
+
+//////////////////////////////////////////
+Parametros desde la terminal
+Instalar npm i yargs para obtener los parametros.
+
